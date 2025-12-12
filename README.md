@@ -1,5 +1,6 @@
 # Trajectory Generation for Quadrotor UAVs with Obstacles
 
+**Authors:** Di Mauro M., Galluzzi G., Torrijos J.
 **Institution:** Politecnico di Milano  
 **Course:** Adaptive and Autonomous Aerospace Systems  
 **Professor:** Davide Invernizzi  
